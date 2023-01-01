@@ -1,0 +1,25 @@
+-- CREATE TABLE customer(
+-- 	age INTEGER NOT NULL,
+-- 	job VARCHAR(30) NOT NULL,
+-- 	marital_status VARCHAR(30) NOT NULL,
+-- 	education VARCHAR(30) NOT NULL,
+-- 	default_status VARCHAR(15) NOT NULL,
+-- 	balance BIGINT NOT NULL,
+-- 	housing VARCHAR(15) NOT NULL,
+-- 	loan VARCHAR(15) NOT NULL,
+-- 	contact VARCHAR(20) NOT NULL,
+-- 	day_of_month INTEGER NOT NULL,
+-- 	month_name CHAR(5) NOT NULL, 
+-- 	duration INTEGER NOT NULL,
+-- 	campaign INTEGER NOT NULL,
+-- 	pdays INTEGER NOT NULL,
+-- 	previous INTEGER NOT NULL,
+-- 	poutcome VARCHAR(20) NOT NULL,
+-- 	y CHAR(5) NOT NULL
+-- );
+
+
+select *
+from customer 
+limit 5; 
+
