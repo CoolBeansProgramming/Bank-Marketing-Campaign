@@ -4,7 +4,7 @@
 A Portuguese bank conducted direct marketing campaigns to encourage clients to open a term deposit account. The campaigns were conducted via phone calls and usually more than one call was made to the same customer. The overall goal is to predict if a client did open a term deposit account. 
 
 
-## Business Task
+## Business Tasks
 
 1. Perform exploratory data analysis to discover insights
 
@@ -20,6 +20,6 @@ SQL, Python, Tableau
 
 
 
-
+## Data Source
 
 [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014
