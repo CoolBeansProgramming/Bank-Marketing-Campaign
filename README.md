@@ -16,7 +16,7 @@ The [data](https://archive.ics.uci.edu/ml/datasets/bank+marketing) was collected
 
 ## Tools
 
-SQL, Python, Tableau and 
+SQL, Python, Tableau 
 
 
 
