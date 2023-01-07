@@ -23,3 +23,18 @@ select *
 from customer 
 limit 5; 
 
+
+
+select education, 
+	round(avg(case when marital_status='single' or marital_status='divorced' then 0
+   	when marital_status='married' then 1 end),2) as pct_married
+from customer
+group by education; 
+
+
+select default_status, count(default_status) as count
+from customer
+where balance IN (select balance from customer where balance > 1000)
+group by default_status
+
+
