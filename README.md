@@ -16,7 +16,8 @@ The [data](https://archive.ics.uci.edu/ml/datasets/bank+marketing) was collected
 
 ## Tools
 
-SQL, Python, [Tableau](https://public.tableau.com/app/profile/paijetableau/viz/BankMarketingCampaign_16726006966180/Sheet1)
+SQL, Python, Tableau ([dashboard](https://public.tableau.com/app/profile/paijetableau/viz/BankMarketingCampaign_16726006966180/Dashboard1))
+
 
 
 
