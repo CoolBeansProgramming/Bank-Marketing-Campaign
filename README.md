@@ -20,21 +20,37 @@ A time or term deposit bank account is a type of account that has a pre-set date
 ## Variables 
 
 `age`- numeric
+
 `job` - categorical 
+
 `marital_status` - categorical
+
 `education` - categorical 
+
 `default_status` - categorical (has credit in default)
+
 `balance` - numeric
+
 `housing` - categorical (has a housing loan)
+
 `loan` - categorical (has a personal loan)
+
 `contact` - categorical (contact communication type)
+
 `day_of_month` - categorical (last contact day of week)
+
 `month_name` - categorical (last contact month of year)
+
 `duration` - numeric (last contact duration in seconds)
+
 `campaign` - numeric (number of contacts performed during this campaign and for this client)
+
 `pdays` - numeric (number of days that passed by after client was last contacted from previous campaign)
+
 `previous` - numeric (number of contacts performed before this campaign for this client)
+
 `poutcome` - categorical (outcome of previous marketing campaign)
+
 `y` - binary (has the client subscribed to a term deposit)
 
 
